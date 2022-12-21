@@ -1,0 +1,1 @@
+class SlidereducationalActivity7ItemModel { }

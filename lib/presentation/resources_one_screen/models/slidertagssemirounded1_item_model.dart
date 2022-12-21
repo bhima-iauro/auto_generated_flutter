@@ -1,0 +1,1 @@
+class Slidertagssemirounded1ItemModel { }

@@ -1,0 +1,1 @@
+class ListtextOne2ItemModel { }

@@ -1,0 +1,1 @@
+class Listhrishabhsatpute7ItemModel { }

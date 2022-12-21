@@ -1,0 +1,1 @@
+class Listiconsiconspla2ItemModel { }
